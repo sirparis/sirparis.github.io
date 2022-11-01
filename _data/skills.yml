@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming Languages
+- skill: Programming Languages
+  description: Python, C#, C++, Java, Java EE, Visual Basic
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Website Development
+- skill: Website Development
+  description: WordPress, PHP, HTML, CSS, JavaScript, Joomla
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Servers
+- skill: Servers
+  description: Apache Http Server, Load Balancing & Failover, MySQL, NFS, and Cron (system-wide & individual user)
+
+# Networking
+- skill: Networking
+  description: Ping, Teletype Network, Netstat, Address Resolution Protocol
+
+# Cloud Infrastructure
+- skill: Cloud Infrastructure
+  description: AWS (IaaS, PaaS, SaaS, CLI/API, VPs)
+
+# Other Relevant Skills
+- skill: Cloud Infrastructure
+  description: MySQL, MongoDB, PostgreSQL, Git, DaVinci Resolve, Wondershare Filmora, Arduino, Raspberry Pi
