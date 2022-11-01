@@ -1,11 +1,10 @@
-# Associations
+# Publications
 # comment out the urls if you do not wish to display them
 
 - organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  year: 2018
+  url: https://doi.org/10.1016/j.ifacol.2018.11.335
+  summary: Athanasiou, T., Salmas, D., Karvelis, P., Angelis, I., Andrea, V., Schismenos, P., Styliou, M., & Stylios, C. (2018). A Web-Geographical Information System for Real Time Monitoring of Arachthos River, Greece. IFAC-PapersOnLine, 51(30), 384–389.
 
 
 - organization: Yale Amnesty International
