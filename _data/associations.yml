@@ -1,14 +1,13 @@
 # Publications
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+- organization: ELSEVIER
   year: 2018
   url: https://doi.org/10.1016/j.ifacol.2018.11.335
   summary: Athanasiou, T., Salmas, D., Karvelis, P., Angelis, I., Andrea, V., Schismenos, P., Styliou, M., & Stylios, C. (2018). A Web-Geographical Information System for Real Time Monitoring of Arachthos River, Greece. IFAC-PapersOnLine, 51(30), 384–389.
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: IEEE
+  year: 2021
+  url: https://doi.org/10.1109/MED51440.2021.9480186
+  summary: P. Schismenos, P. Karvelis and C. Stylios, "Risk Flood Assessment for the Arachthos River using Analytic Hierarchy Process," 2021 29th Mediterranean Conference on Control and Automation (MED), 2021, pp. 1167-1172.
