@@ -1,13 +1,24 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: MSc in Computer Engineering & Networking in Software Engineering
+  uni: University of Ioannina, Kostakioi, Arta
+  year: 2021
   awards:
-    - award: Summa Cumme Laude graduate
+    - award: Software development using Java Enterprise Edition
+    - award: Advanced Databases
+    - award: Big Data Mining
+    - award: Managing Autonomous Sensor Networks
+    - award: “Design of a Decision Support System for Flood Risk Assessment and Visualization”
   summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: BSc, Telecommunications Systems and Networks
+  uni: Technological Educational Institute of Messolonghi
+  year: 2012
+  award:
+    - award: Application Development in C, C++, C#, Java, Matlab
+    - award: Mobile Application development for Android
+    - award: Website Development with PHP, JavaScript, HTML, CSS
+    - award: Database management
+    - award: Computer interfaces
+    - award: Computer networks
+    - award: “Design and implementation of web - based deposit system requests from their appraisal and TEI partners”
   summary: You can choose to have either a single or multiple awards
