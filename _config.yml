@@ -50,8 +50,8 @@ resume_social_links:
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/schismenosp/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://www.instagram.com/parisschismenos/"
+  resume_instagram_url:         "https://www.instagram.com/parisschismenos/"
+  #resume_website_url:           "https://www.instagram.com/parisschismenos/"
   #resume_medium_url:            "https://sirparis.github.io/"
 resume_print_social_links:      true
 
