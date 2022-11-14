@@ -144,13 +144,13 @@
           <h2>Publications</h2>
         </header>
 
-<!--        {% for association in site.data.associations %}-->
-<!--        <div class="resume-item" itemscope itemprop="memberOf" itemtype="https://schema.org/Organization">-->
-<!--          <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>-->
-<!--          <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>-->
-<!--          <p class="resume-item-copy">{{ association.summary }}</p>-->
-<!--        </div>-->
-<!--        {% endfor %}-->
+        {% for association in site.data.associations %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="https://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
+          <p class="resume-item-copy">{{ association.summary }}</p>
+        </div>
+        {% endfor %}
 
       </section>
       <!-- end Associations -->
